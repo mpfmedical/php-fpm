@@ -1,0 +1,12 @@
+root=${SSMTP_ROOT}
+
+mailhub=${SSMTP_MAILHUB}
+
+hostname=${SSMTP_HOSTNAME}
+
+AuthMethod=${SSMTP_AUTH_METHOD}
+AuthUser=${SSMTP_USER}
+AuthPass=${SSMTP_PASS}
+
+UseTLS=${SSMTP_USE_TLS}
+UseSTARTTLS=${SSMTP_USE_STARTTLS}
